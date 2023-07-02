@@ -30,3 +30,28 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 * VS Code
 
 ## Code example:
+
+## Work Experience:
+
+* **[TimingWeb](https://timingweb.com/)**
+  Project Manager
+  
+* **Agency of Creative Programs**
+Lead Project Manager
+
+## Educations:
+* **Siberian Federal University (SibFU)**	
+School of Philology and Language Communication (Translator in the Field of professional Communication)  
+
+* **Siberian Federal University (SibFU)**	
+School of Physical Education, Sport and Tourism. (Specialist in physical culture and sports.)
+
+## Courses:
+
+* Hexlet Course «Fronted Developer» (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+## Languages:
+
+* English: Intermediate
+* Russian: Native
