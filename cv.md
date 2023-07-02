@@ -35,7 +35,7 @@ Overall, as a budding web developer, my enthusiasm for learning and exploring ne
 
 * **[TimingWeb](https://timingweb.com/)** - Project Manager
   
-* **Agency of Creative Programs** - Lead Project Manager
+* **Agency of Creative Programs** - Lead Project Manager 
 
 ## Educations:
 * **Siberian Federal University (SibFU).** School of Philology and Language Communication (Translator in the Field of professional Communication)  
