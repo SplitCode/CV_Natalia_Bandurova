@@ -51,9 +51,10 @@ body {
 
 .nav-list {
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
   list-style: none;
+  padding: 0;
 }
 
 .nav-link {
