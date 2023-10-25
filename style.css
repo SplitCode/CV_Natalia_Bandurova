@@ -160,11 +160,6 @@ body {
   color: #76BBC4;
 }
 
-.code {
-  margin: 0;
-  padding: 0;
-}
-
 .link {
   text-decoration: none;
   color: #76BBC4;
@@ -202,6 +197,11 @@ body {
 
 span {
   color: #76BBC4;
+}
+
+span.right {
+  color: initial;
+  margin-left: 26px;
 }
 
 .footer {

@@ -1,4 +1,1 @@
-
-https://SplitCode.github.io/rsschool-cv/cv
-
-https://SplitCode.github.io/rsschool-cv/
+https://splitcode.github.io/CV_Natalia_Bandurova/
